@@ -1,0 +1,2 @@
+#Fri Jan 25 13:55:43 NPT 2019
+gradle.version=3.5
